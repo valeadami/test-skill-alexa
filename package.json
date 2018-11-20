@@ -1,0 +1,22 @@
+{
+  "name": "test-skill-alexa",
+  "version": "1.0.0",
+  "description": "test client alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeadami/test-skill-alexa.git"
+  },
+  "author": "va",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeadami/test-skill-alexa/issues"
+  },
+  "homepage": "https://github.com/valeadami/test-skill-alexa#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.3"
+  }
+}
